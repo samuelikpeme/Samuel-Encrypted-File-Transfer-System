@@ -1,0 +1,43 @@
+.nav{
+	margin-top: 18px;
+}
+.navbar{
+	min-height: 90px;
+	margin-bottom: 0 !important;
+	background-color: #04519b;
+	color: #fff;
+
+
+}
+
+
+.navbar-brand{
+	height: auto;
+	padding-top: 15px;
+	margin: 0;
+}
+.container container-pad{
+	padding-top: 90px;
+}
+body#login{
+	background-color: #1f87c2;
+	color: #fff;
+}
+.seclogin{
+		padding-top: 90px;
+}
+#footer{
+	background-color: #04519b;
+	color: #fff;
+	padding-top: 30px;
+	margin-top: 20%;
+
+}
+	
+#footer p{
+		font-size:16px
+	}
+
+
+	
+
